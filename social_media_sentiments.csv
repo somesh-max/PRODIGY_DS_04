@@ -1,0 +1,16 @@
+Text,Sentiment
+I love this phone!,Positive
+This product is amazing.,Positive
+Excellent customer service.,Positive
+I am very happy with the purchase.,Positive
+The quality is fantastic.,Positive
+This is the worst app ever.,Negative
+I hate this update.,Negative
+Very disappointing experience.,Negative
+The service was terrible.,Negative
+I will never buy this again.,Negative
+"It's okay, nothing special.",Neutral
+The product works as expected.,Neutral
+I have mixed feelings about it.,Neutral
+It's average in performance.,Neutral
+"Not bad, not great.",Neutral
